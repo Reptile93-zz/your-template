@@ -2,5 +2,5 @@ echo "# your-template" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/Reptile93/your-template.git
+git remote add origin https://github.com/Reptile93/Reptile_First_Code.git
 git push -u origin master
