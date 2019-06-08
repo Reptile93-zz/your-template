@@ -4,3 +4,4 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/Reptile93/Reptile_First_Code.git
 git push -u origin master
+got add "Reptile93" README.md
